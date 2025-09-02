@@ -1,1 +1,1 @@
-# panic-button
+# panic-buttons
