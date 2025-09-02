@@ -1,0 +1,2 @@
+HTTP Code: 200
+Response: {"detail":"success! message in queue","id":["88031583"],"process":"pending","quota":{"6285389571637":{"details":"deduced from total quota","quota":988,"remaining":987,"used":1}},"requestid":20917929,"status":true,"target":["6285389571637"]}
